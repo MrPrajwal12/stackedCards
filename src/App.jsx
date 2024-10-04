@@ -47,12 +47,14 @@ const App = () => {
         <h1>Rasoi Delights</h1>
         <h3>The Essence of Indian Sweetness</h3>
         <p>
-          Welcome to La Pâtisserie Belle, where every bite is a journey into the
-          exquisite world of finely crafted pastries. Our patisserie is
-          dedicated to bringing you the most delicious and beautifully designed
-          pastries that will delight your senses and elevate your taste
-          experience. Nestled in the heart of the city, our patisserie is a
-          haven for those who appreciate the finer things in life.
+          Welcome to Rasoi Delights, where every treat tells a story of
+          tradition and flavor. Our patisserie reimagines Indian sweets, merging
+          age-old recipes with contemporary flair. Dive into a world where each
+          bite of our signature gulab jamuns, rich rasgullas, and innovative
+          fusion desserts transports you to a vibrant celebration of Indian
+          culture. Located in the heart of the city, Rasoi Delights is more than
+          just a sweet shop; it’s a culinary journey inviting you to savor the
+          magic of India’s beloved desserts.
         </p>
         <button className="btn">Explore More</button>
       </div>
